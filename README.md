@@ -8,7 +8,7 @@ This is a scanner, parser and evaluator for the LET language written in go.
 
 To Run:
 *********************************************
-type on the command line (in this directory and without backticks "`")
+type on the command line (in this directory)
 `go run main.go let_scanner.go let_parser.go let_evaluator.go`
 
 You will be propted to enter a file name
